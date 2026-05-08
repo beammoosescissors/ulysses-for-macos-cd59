@@ -1,4 +1,4 @@
-
+exclusive Integration for Ulysses for macOS - collaboration and markdown support offers the most advanced Ulysses for macOS integration, with collaboration and markdown support.
 
 
 
